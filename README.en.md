@@ -8,7 +8,7 @@ with a Windows flashing and codeplug (CPS) program and an Android app.
 </p>
 
 <p align="center">
-<a href="#download"><b>⬇ Download (v1.3)</b></a> ·
+<a href="indir/v1.3"><b>⬇ Download (v1.3)</b></a> ·
 <a href="docs/TA390_v1.3_User_Manual_EN.pdf">User manual</a> ·
 <a href="README.md">Türkçe</a>
 </p>

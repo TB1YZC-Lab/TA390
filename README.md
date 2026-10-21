@@ -8,7 +8,7 @@ Windows yükleme ve kod planı (CPS) programı ve Android uygulaması.
 </p>
 
 <p align="center">
-<a href="#i̇ndirme"><b>⬇ İndir (v1.3)</b></a> ·
+<a href="indir/v1.3"><b>⬇ İndir (v1.3)</b></a> ·
 <a href="docs/TA390_v1.3_Kullanim_Kilavuzu.pdf">Kullanım kılavuzu</a> ·
 <a href="README.en.md">English</a>
 </p>
