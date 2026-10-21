@@ -1,0 +1,42 @@
+TA390
+=====
+
+TA390 (the radio firmware, the TA390 Windows program and the TA390 Android app) is derived
+from the OpenGD77 firmware and is distributed under the same terms as OpenGD77, reproduced
+below. In particular, ANY COMMERCIAL USE IS FORBIDDEN (clause 4).
+
+TA390 is NOT an official OpenGD77 release. It is not made, endorsed or supported by the
+OpenGD77 developers.
+
+Modifications and programs: Copyright (C) 2026 TB1YZC
+
+The DMR audio codec (AMBE) and the TYT donor firmware are not part of TA390 and are not
+distributed.
+
+Licences of the third party components (FreeRTOS, STMicroelectronics STM32 HAL and USB Device
+Library, Arm CMSIS, libusb, APRS symbols) are in the LISANSLAR folder.
+
+------------------------------------------------------------------------------------------
+
+   Copyright (C) 2019-2024 OpenGD77 firmware developers
+
+   Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions
+   are met:
+
+   1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer
+      in the documentation and/or other materials provided with the distribution.
+
+   3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived
+      from this software without specific prior written permission.
+
+   4. Use of this source code or binary releases for commercial purposes is strictly forbidden. This includes, without limitation,
+      incorporation in a commercial product or incorporation into a product or project which allows commercial use.
+
+   THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+   LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+   HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+   LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+   ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+   USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
