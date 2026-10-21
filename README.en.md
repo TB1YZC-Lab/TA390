@@ -8,7 +8,7 @@ with a Windows flashing and codeplug (CPS) program and an Android app.
 </p>
 
 <p align="center">
-<a href="https://github.com/TB1YZC-Lab/TA390/releases/latest"><b>⬇ Download the latest release</b></a> ·
+<a href="#download"><b>⬇ Download (v1.3)</b></a> ·
 <a href="docs/TA390_v1.3_User_Manual_EN.pdf">User manual</a> ·
 <a href="README.md">Türkçe</a>
 </p>
@@ -17,15 +17,15 @@ with a Windows flashing and codeplug (CPS) program and an Android app.
 
 ## Download
 
-All the files are on the [Releases](https://github.com/TB1YZC-Lab/TA390/releases/latest) page.
+Click a file name to download it. All the files are in the [indir/v1.3](indir/v1.3) and [docs](docs) folders; checksums: [SHA256SUMS.txt](indir/v1.3/SHA256SUMS.txt).
 
 | File | Purpose |
 |---|---|
-| `TA390_v1.3.zip` | Radio firmware (`TA390_v1.3.bin`), language files, readme, licences |
-| `TA390_Kurulum_v1.3.exe` | Windows program (setup): firmware flashing / update, backups, CPS |
-| `TA390_v1.3.apk` | Android app: the same functions as the Windows program (over a USB OTG cable) |
-| `TA390_v1.3_User_Manual_EN.pdf` | User manual (English) |
-| `TA390_v1.3_Kullanim_Kilavuzu.pdf` | User manual (Turkish) |
+| [`TA390_v1.3.zip`](https://github.com/TB1YZC-Lab/TA390/raw/main/indir/v1.3/TA390_v1.3.zip) | Radio firmware (`TA390_v1.3.bin`), language files, readme, licences |
+| [`TA390_Kurulum_v1.3.exe`](https://github.com/TB1YZC-Lab/TA390/raw/main/indir/v1.3/TA390_Kurulum_v1.3.exe) | Windows program (setup): firmware flashing / update, backups, CPS |
+| [`TA390_v1.3.apk`](https://github.com/TB1YZC-Lab/TA390/raw/main/indir/v1.3/TA390_v1.3.apk) | Android app: the same functions as the Windows program (over a USB OTG cable) |
+| [`TA390_v1.3_User_Manual_EN.pdf`](docs/TA390_v1.3_User_Manual_EN.pdf) | User manual (English) |
+| [`TA390_v1.3_Kullanim_Kilavuzu.pdf`](docs/TA390_v1.3_Kullanim_Kilavuzu.pdf) | User manual (Turkish) |
 
 The firmware, the Windows program and the Android app always have **the same version number**.
 

@@ -8,7 +8,7 @@ Windows yükleme ve kod planı (CPS) programı ve Android uygulaması.
 </p>
 
 <p align="center">
-<a href="https://github.com/TB1YZC-Lab/TA390/releases/latest"><b>⬇ Son sürümü indir</b></a> ·
+<a href="#i̇ndirme"><b>⬇ İndir (v1.3)</b></a> ·
 <a href="docs/TA390_v1.3_Kullanim_Kilavuzu.pdf">Kullanım kılavuzu</a> ·
 <a href="README.en.md">English</a>
 </p>
@@ -17,15 +17,15 @@ Windows yükleme ve kod planı (CPS) programı ve Android uygulaması.
 
 ## İndirme
 
-Bütün dosyalar [Releases](https://github.com/TB1YZC-Lab/TA390/releases/latest) sayfasındadır.
+Dosya adına tıklayınca indirme başlar. Bütün dosyalar [indir/v1.3](indir/v1.3) ve [docs](docs) klasörlerindedir; dosya özetleri: [SHA256SUMS.txt](indir/v1.3/SHA256SUMS.txt).
 
 | Dosya | Ne işe yarar |
 |---|---|
-| `TA390_v1.3.zip` | Telsiz yazılımı (`TA390_v1.3.bin`), dil dosyaları, BENIOKU, lisanslar |
-| `TA390_Kurulum_v1.3.exe` | Windows programı: yazılım yükleme / güncelleme, yedek, CPS |
-| `TA390_v1.3.apk` | Android uygulaması: Windows programıyla aynı işlevler (USB OTG kablosuyla) |
-| `TA390_v1.3_Kullanim_Kilavuzu.pdf` | Türkçe kullanım kılavuzu |
-| `TA390_v1.3_User_Manual_EN.pdf` | İngilizce kullanım kılavuzu |
+| [`TA390_v1.3.zip`](https://github.com/TB1YZC-Lab/TA390/raw/main/indir/v1.3/TA390_v1.3.zip) | Telsiz yazılımı (`TA390_v1.3.bin`), dil dosyaları, BENIOKU, lisanslar |
+| [`TA390_Kurulum_v1.3.exe`](https://github.com/TB1YZC-Lab/TA390/raw/main/indir/v1.3/TA390_Kurulum_v1.3.exe) | Windows programı: yazılım yükleme / güncelleme, yedek, CPS |
+| [`TA390_v1.3.apk`](https://github.com/TB1YZC-Lab/TA390/raw/main/indir/v1.3/TA390_v1.3.apk) | Android uygulaması: Windows programıyla aynı işlevler (USB OTG kablosuyla) |
+| [`TA390_v1.3_Kullanim_Kilavuzu.pdf`](docs/TA390_v1.3_Kullanim_Kilavuzu.pdf) | Türkçe kullanım kılavuzu |
+| [`TA390_v1.3_User_Manual_EN.pdf`](docs/TA390_v1.3_User_Manual_EN.pdf) | İngilizce kullanım kılavuzu |
 
 Telsiz yazılımı, Windows programı ve Android uygulaması her zaman **aynı sürüm numarasını** taşır.
 
